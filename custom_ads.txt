@@ -2,7 +2,7 @@
 # PI-HOLE BLOCKLIST: GOOGLE ADS
 # ----------------------------------------------------------
 
-0.0.0.0 www.googleadservices.com 
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com 
 0.0.0.0 www.googletagmanager.com 
 0.0.0.0 www.googletagservices.com 
@@ -29,7 +29,6 @@
 # PI-HOLE BLOCKLIST: SPAIN
 # ----------------------------------------------------------
 0.0.0.0 cat.fr3.eu.criteo.com
-0.0.0.0 affiliates.host1plus.com
-0.0.0.0 vuelosbaratos.com
-0.0.0.0 vuelosbaratos.es
+0.0.0.0 ads.eu.criteo.com
+0.0.0.0 securepubads.g.doubleclick.net
 

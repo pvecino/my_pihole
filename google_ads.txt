@@ -16,3 +16,4 @@
 0.0.0.0 pubads.g.doubleclick.net 
 0.0.0.0 cm.g.doubleclick.net 
 0.0.0.0 bid.g.doubleclick.net 
+0.0.0.0 cat.fr3.eu.criteo.com

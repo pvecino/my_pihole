@@ -30,17 +30,6 @@
 # ----------------------------------------------------------
 0.0.0.0 cat.fr3.eu.criteo.com
 0.0.0.0 affiliates.host1plus.com
-0.0.0.0 codere.es
-0.0.0.0 jwpcdn.com
-0.0.0.0 oferplan.abc.es
-0.0.0.0 outbrain.com
-0.0.0.0 platform.sunmedia.tv
-0.0.0.0 promo.blackview.hk
-0.0.0.0 promo.blackview.hk
-0.0.0.0 resizer-oferplan.abc.es
-0.0.0.0 resizer-oferplan.lavozdegalicia.es
-0.0.0.0 smartadserver.com
-0.0.0.0 sunmedia.tv
 0.0.0.0 vuelosbaratos.com
 0.0.0.0 vuelosbaratos.es
 

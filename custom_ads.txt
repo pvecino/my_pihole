@@ -1,0 +1,43 @@
+# ----------------------------------------------------------
+# PI-HOLE BLOCKLIST: GOOGLE ADS
+# ----------------------------------------------------------
+
+0.0.0.0 www.googleadservices.com 
+0.0.0.0 www.google-analytics.com 
+0.0.0.0 www.googletagmanager.com 
+0.0.0.0 www.googletagservices.com 
+
+# ----------------------------------------------------------
+# PI-HOLE BLOCKLIST: DOUBLECLICK
+# ----------------------------------------------------------
+0.0.0.0 ad.doubleclick.net 
+0.0.0.0 ade.googlesyndication.com 
+0.0.0.0 adservice.google.com 
+0.0.0.0 googleads.g.doubleclick.net 
+0.0.0.0 pagead2.googlesyndication.com 
+0.0.0.0 googleads.g.doubleclick.net 
+0.0.0.0 ade.googlesyndication.com 
+0.0.0.0 4735610.fls.doubleclick.net 
+0.0.0.0 8114842.fls.doubleclick.net 
+0.0.0.0 securepubads.g.doubleclick.net 
+0.0.0.0 pubads.g.doubleclick.net 
+0.0.0.0 cm.g.doubleclick.net 
+0.0.0.0 bid.g.doubleclick.net 
+
+# ----------------------------------------------------------
+# PI-HOLE BLOCKLIST: SOCIAL
+# ----------------------------------------------------------
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 l.instagram.com
+0.0.0.0 help.instagram.com
+0.0.0.0 business.instagram.com
+0.0.0.0 scontent-msp1-1.cdninstagram.com
+0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 graph.instagram.co
+
+# ----------------------------------------------------------
+# PI-HOLE BLOCKLIST: RANDOM
+# ----------------------------------------------------------
+0.0.0.0 cat.fr3.eu.criteo.com

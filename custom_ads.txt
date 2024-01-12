@@ -22,7 +22,8 @@
 0.0.0.0 securepubads.g.doubleclick.net 
 0.0.0.0 pubads.g.doubleclick.net 
 0.0.0.0 cm.g.doubleclick.net 
-0.0.0.0 bid.g.doubleclick.net 
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
 
 # ----------------------------------------------------------
 # PI-HOLE BLOCKLIST: SOCIAL
@@ -49,7 +50,6 @@
 0.0.0.0 platform.sunmedia.tv
 0.0.0.0 promo.blackview.hk
 0.0.0.0 promo.blackview.hk
-0.0.0.0 resizer-oferplan
 0.0.0.0 resizer-oferplan.abc.es
 0.0.0.0 resizer-oferplan.lavozdegalicia.es
 0.0.0.0 smartadserver.com

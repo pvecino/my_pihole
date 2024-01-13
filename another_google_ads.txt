@@ -29441,4 +29441,5 @@ r19---sn--jpm-15b6.googlevideo.com
 r19---sn--jpm-15bd.googlevideo.com
 r19---sn--jtcxg-3ipl.googlevideo.com
 r19---sn--jtcxg-aixe.googlevideo.com
-r19---sn--jucj-0qpl.googl
+r19---sn--jucj-0qpl.googlevideo.com
+adclick.g.doubleclick.net

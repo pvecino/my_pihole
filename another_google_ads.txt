@@ -29443,3 +29443,4 @@ r19---sn--jtcxg-3ipl.googlevideo.com
 r19---sn--jtcxg-aixe.googlevideo.com
 r19---sn--jucj-0qpl.googlevideo.com
 adclick.g.doubleclick.net
+graph.facebook.com

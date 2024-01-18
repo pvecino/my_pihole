@@ -22,6 +22,8 @@
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 cat.fr3.eu.criteo.com
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 ced.sascdn.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 contributor.google.com
 0.0.0.0 es-config.sensic.net
@@ -38,6 +40,7 @@
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ib.adnxs-simple.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 pagead2.googlesyndication.com
@@ -54,6 +57,7 @@
 0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 tag.durationmedia.net
+0.0.0.0 tagmanager.smartadserver.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 u.openx.net

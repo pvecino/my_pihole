@@ -13,8 +13,10 @@
 0.0.0.0 ads.eu.criteo.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.servenobid.com
+0.0.0.0 ads1.opensubtitles.org
 0.0.0.0 ads4.krushmedia.com
 0.0.0.0 adservice.google.com
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 andr-25-aftkmst12-641002610.api.amazonvideo.com
 0.0.0.0 api.eu.amazonalexa.com
 0.0.0.0 api.id5-sync.com
@@ -31,6 +33,7 @@
 0.0.0.0 c2shb.pubgw.yahoo.com
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 cafemedia-com.videoplayerhub.com
+0.0.0.0 caraboajibstay.digital
 0.0.0.0 cat.fr3.eu.criteo.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.taboola.com
@@ -54,7 +57,9 @@
 0.0.0.0 googleoptimize.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 graph.facebook.com
 0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 howkeddioc.digital
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 i.clean.gg
 0.0.0.0 ib.adnxs-simple.com
@@ -66,6 +71,7 @@
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mas-ext-eu.amazon.com
 0.0.0.0 mc.yandex.ru
+0.0.0.0 mega-block.net
 0.0.0.0 mp.4dex.io
 0.0.0.0 o2r2hew432.execute-api.us-east-1.amazonaws.com
 0.0.0.0 onetag-sys.com
@@ -76,6 +82,7 @@
 0.0.0.0 prod.amazoncrl.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 redditstatic.com
+0.0.0.0 relaxergourdy.digital
 0.0.0.0 rtb.openx.net
 0.0.0.0 s.seedtag.com
 0.0.0.0 sb.scorecardresearch.com
@@ -86,7 +93,9 @@
 0.0.0.0 secure.statcounnter.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 seg.ad.gt
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
@@ -95,13 +104,16 @@
 0.0.0.0 sync.cootlogix.com
 0.0.0.0 tag.durationmedia.net
 0.0.0.0 tagmanager.smartadserver.com
+0.0.0.0 tendernessexcavatorfugitive.com
+0.0.0.0 thatvalhall.digital
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 u.openx.net
+0.0.0.0 update.v5lwd8wd5tmz.top
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www3.smartadserver.com
-0.0.0.0 howkeddioc.digital
+0.0.0.0 z-na.amazon-adsystem.com

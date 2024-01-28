@@ -117,4 +117,9 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www3.smartadserver.com
 0.0.0.0 z-na.amazon-adsystem.com
-0.0.0.0 musclyskeely.top/
+0.0.0.0 musclyskeely.top
+0.0.0.0 instail.satternums.com
+0.0.0.0 kingadblock.net
+0.0.0.0 reavingdinner.digital
+0.0.0.0 goldpopblocker.info
+0.0.0.0 athbashara.com

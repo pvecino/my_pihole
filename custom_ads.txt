@@ -131,6 +131,7 @@
 0.0.0.0 realbulaadss.com
 0.0.0.0 kingadblock.pro
 0.0.0.0 install-check.com
+0.0.0.0 ads.vintodeca.com
 0.0.0.0 alchemy-trade.site
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 whos.amung.us

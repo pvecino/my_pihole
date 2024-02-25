@@ -145,3 +145,12 @@
 0.0.0.0 yamaneta.com
 0.0.0.0 yourbrbads.com
 0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 bootyheroes.com
+0.0.0.0 faptitans.com
+0.0.0.0 bundslab.com
+0.0.0.0 click.a-ads.com
+0.0.0.0 gamezcliq.com
+0.0.0.0 lydiacornerredreflect.com
+0.0.0.0 sexydimension.com
+0.0.0.0 funnelgloveaffable.com
+0.0.0.0 biserka.xyz
